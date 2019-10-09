@@ -10,8 +10,22 @@ h1
 {
     color: white;
 }
-
 table
 {
+    background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj93Lyj44_lAhWRMX0KHQ8BBwoQjRx6BAgBEAQ&url=https%3A%2F%2Fthemerkle.com%2Fthe-bitcoin-network-is-now-in-space%2F&psig=AOvVaw2YIhBVTTt1iNq2OePcsrnx&ust=1570731028983352");
+    color: white;
+    text-align: center;
+    vertical-align: center;
     border-collapse: collapse;
+    border-spacing: 5px;
+    padding: 10px;
+}
+th, td
+{
+    padding: 10px;
+    text-align: center;
+}
+table, th, td
+{
+    border: 2px solid white;
 }
