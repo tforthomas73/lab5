@@ -3,19 +3,19 @@ body
     background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj93Lyj44_lAhWRMX0KHQ8BBwoQjRx6BAgBEAQ&url=https%3A%2F%2Fthemerkle.com%2Fthe-bitcoin-network-is-now-in-space%2F&psig=AOvVaw2YIhBVTTt1iNq2OePcsrnx&ust=1570731028983352");
     font-family: Arial, Helvetica, sans-serif;
     color: white;
-    background-color: black;
-    text-align: center-left;
 }
 h1
 {
     color: white;
+    font-family: Arial, Helvetica, sans-serif
+    text-align: center;
 }
 img
 {
-    max-width: 300px;
-    max-height: auto;
-    width: 300px;
-    height: auto;
+    max-width: 250px;
+    max-height: 250px;
+    width: 250px;
+    height: 250px;
 }
 table
 {
